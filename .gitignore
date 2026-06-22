@@ -1,0 +1,51 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+.env.example
+# Environment Variables
+
+.env
+
+# Uploads
+
+uploads/
+
+# Logs
+
+*.log
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Docker
+
+docker-data/
+
+# Testing
+
+.pytest_cache/
+.coverage
+
+# Build
+
+dist/
+build/
+
+# Database Dumps
+
+*.sql
